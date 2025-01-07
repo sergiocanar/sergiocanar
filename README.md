@@ -9,7 +9,7 @@ Welcome to my GitHub profile!
 - 💼 Actively working on projects that solve real-world problems, including portable devices for accessibility and health management.  
 - 🎓 Exploring 3D reconstruction and advanced AI models through courses and independent learning.  
 - 🤝 Open to collaborating on innovative projects in **machine learning**, **computer vision** ,**robotics**, and **health tech**.  
-- ⚡ Fun fact: I enjoy coding, problem-solving, and creating tools that positively impact lives. And I'm Scuderia Ferrari fan ❤️ 
+- ⚡ Fun fact: I enjoy coding, problem-solving, and creating tools that positively impact lives. And I'm a Scuderia Ferrari fan ❤️ 
 
 ## My Skills  
 
@@ -25,7 +25,7 @@ Welcome to my GitHub profile!
 
 ## Connect with Me  
 
-- [LinkedIn](https://www.linkedin.com/in/sergio-andr%C3%A9s-ca%C3%B1ar-lozano-ba819b327/)  
+- [LinkedIn](www.linkedin.com/in/sergiocanarl)  
 - [Twitter/X](https://x.com/sergio_canar)  
 - [Email](mailto:s.canar@uniandes.edu.co)  
 
