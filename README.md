@@ -55,7 +55,7 @@ Welcome to my GitHub profile! 🚀
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergiocanar&theme=dark&hide_border=true&v=1)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sergiocanar&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocanar&layout=compact&theme=dark)  
 
 ---
