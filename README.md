@@ -47,11 +47,15 @@ Welcome to my GitHub profile! 🚀
 🔗 [GitHub Repository](https://github.com/SinfonIAUniandes/perception_utilities)  
 📌 Enhanced **autonomy in social robotics** by integrating **computer vision tools** for the **Pepper Robot**. Developed during my time at [SinfonIA Uniandes](https://github.com/SinfonIAUniandes).  
 
+### 🎭 **Adversarial Machine Learning: FGSM in Face Recognition**  
+🔗 [GitHub Repository](https://github.com/sergiocanar/FGSM_Faces)  
+📌 **Fast Gradient Sign Method (FGSM) attack** on face recognition models. Developed as part of **Project ML for Engineering - Group 1**, in collaboration with **Juan Camilo Rojas Hernández, Wilman Sánchez Hernández**. Explores the impact of adversarial attacks on facial recognition models using ResNet architectures.  
+
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergiocanar&theme=dark&hide_border=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sergiocanar&theme=dark&hide_border=true&v=1)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sergiocanar&layout=compact&theme=dark)  
 
 ---
